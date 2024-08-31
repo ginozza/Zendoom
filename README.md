@@ -1,4 +1,4 @@
-# Zendoom
+# Zendoom 🌱
 
 **Zendoom** is a tool for mitigating DDoS attacks on servers. It monitors incoming traffic and automatically blocks suspicious IPs.
 
